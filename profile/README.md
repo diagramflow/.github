@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Documentation - https://docs.diagramflow.ai
+- Blog - https://diagramflow.ai/blog
+- Website - https://diagramflow.ai
+
 <!--
 
 **Here are some ideas to get you started:**
