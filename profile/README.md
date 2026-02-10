@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Community - [https://diagramflow.slack.com/]([https://diagramflow.slack.com/](https://diagramflow.slack.com/join/shared_invite/zt-3puzecibl-vTe48x2lG0w~f1O9ZoieYQ#/shared-invite/email))
+- Community - [https://diagramflow.slack.com/](https://diagramflow.slack.com/join/shared_invite/zt-3puzecibl-vTe48x2lG0w~f1O9ZoieYQ#/shared-invite/email)
 - Documentation - https://docs.diagramflow.ai
 - Blog - https://diagramflow.ai/blog
 - Website - https://diagramflow.ai
